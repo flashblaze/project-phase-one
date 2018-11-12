@@ -1,0 +1,7 @@
+node_modules/
+keys/
+.vscode/
+build
+src\util\connectors.js
+package-lock.json
+TestingVideos/
