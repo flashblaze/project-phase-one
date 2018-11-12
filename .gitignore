@@ -5,3 +5,4 @@ build
 src\util\connectors.js
 package-lock.json
 TestingVideos/
+Documentation/
